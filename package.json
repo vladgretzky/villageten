@@ -1,0 +1,25 @@
+{
+  "name": "villageten",
+  "version": "1.0.0",
+  "description": "Super cool record label shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladgretzky/villageten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladgretzky/villageten/issues"
+  },
+  "homepage": "https://github.com/vladgretzky/villageten",
+  "dependencies": {
+    "chai": "^2.2.0",
+    "express": "^4.12.3",
+    "mocha": "^2.2.1",
+    "mongoose": "^4.0.1"
+  }
+}
